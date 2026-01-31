@@ -6,7 +6,7 @@ The source is taken from the ARM64 port of SPICE webdavd by the UTM project, and
 
 1. Install [vspkg][1] with VS integrations
 2. `.\vcpkg\vcpkg install glib:arm-windows`
-3. Install [WiX v3.14.1][2] and [WiX Extension][3]
+3. Install [WiX v3.14.1 with ARM32 support][2] and [WiX Extension][3]
 4. Open `spice-webdavd.sln` and build
 
 [1]: https://github.com/microsoft/vcpkg
